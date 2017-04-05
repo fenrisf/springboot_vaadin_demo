@@ -1,4 +1,4 @@
-package com.fenrisf;
+package com.fenrisf.model;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

@@ -1,5 +1,6 @@
-package com.fenrisf;
+package com.fenrisf.repository;
 
+import com.fenrisf.model.Todo;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import javax.transaction.Transactional;

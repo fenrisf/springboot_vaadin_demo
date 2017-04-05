@@ -1,5 +1,6 @@
-package com.fenrisf;
+package com.fenrisf.ui;
 
+import com.fenrisf.model.Todo;
 import com.vaadin.event.ShortcutAction;
 import com.vaadin.icons.VaadinIcons;
 import com.vaadin.server.VaadinRequest;

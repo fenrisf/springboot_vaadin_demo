@@ -1,5 +1,7 @@
-package com.fenrisf;
+package com.fenrisf.ui;
 
+import com.fenrisf.model.Todo;
+import com.fenrisf.repository.TodoRepository;
 import com.vaadin.spring.annotation.SpringComponent;
 import com.vaadin.ui.VerticalLayout;
 import org.springframework.beans.factory.annotation.Autowired;
